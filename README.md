@@ -1,1 +1,1 @@
-# xau-funk-intraday-bot
+# XAU Funk RSI V6 Final
